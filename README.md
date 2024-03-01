@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm jenil Gajjar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src=" https://user-images.githubusercontent.">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Jenil110/Jenil110/assets/161838761/fa01973f-bf70-4a01-8e68-791064326c44)
+ ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajjar&label=Profile%20views&color=0e75b6&style=flat" alt="gajjar" /> </p>
 
